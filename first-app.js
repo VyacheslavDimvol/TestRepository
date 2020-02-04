@@ -1,3 +1,3 @@
 `use strict`;
 
-console.log(`Hello, Viacheslav Dimvol from Node.JS ${process.version}`);
+console.log(`Hello, Dimvol and another viewers from Node.JS ${process.version}`);
